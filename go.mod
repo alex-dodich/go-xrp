@@ -1,4 +1,4 @@
-module go-xrp
+module github.com/yuexcom/go-xrp
 
 go 1.12
 
